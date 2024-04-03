@@ -14,7 +14,9 @@ Faston机场拥有覆盖全球的58个节点，包括香港、台湾、日本、
 ## Faston优惠码
 
 ❤优惠码1: [faston75](https://portal.link-fst.com/#/register?code=kWW8EFld)，享75折优惠，适用于年付所有套餐。
+
 ❤优惠码2: [faston85](https://portal.link-fst.com/#/register?code=kWW8EFld)，享85折优惠，适用于月付、季付、半年付所有套餐。
+
 ❤优惠码3: [faston90](https://portal.link-fst.com/#/register?code=kWW8EFld)，享9折优惠，专为“流量”套餐设计。
 
 
